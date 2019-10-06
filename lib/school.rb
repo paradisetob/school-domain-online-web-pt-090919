@@ -1,1 +1,2 @@
-# code here!
+class School("model")
+  school=school.new("Bayside High School")
